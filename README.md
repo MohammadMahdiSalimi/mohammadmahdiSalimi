@@ -1,10 +1,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img width="12" />
-  
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n logo" />
-  <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
